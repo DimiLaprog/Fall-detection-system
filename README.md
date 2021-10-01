@@ -3,7 +3,7 @@ IOT system for fall detection.
 
 ## The idea and the method
 
-A 3-member team researched the health hazard that acompanies "Falls" and explored different solutions to combat this problem. The team was organised in an agile manner utilising a Gantt Chart and commonly used communication tools, considering it was implemented during covid lockdown.
+A 3-member team researched the health hazard that accompanies "Falls" and explored different solutions to combat this problem. The team was organised in an agile manner utilising a Gantt Chart and commonly used communication tools, considering it was implemented during covid lockdown.
 
 # How it works 
 For a live demo of the system, look into "DEMO" folder!
